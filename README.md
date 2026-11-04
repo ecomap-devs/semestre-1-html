@@ -61,3 +61,9 @@ repositório: este README e o arquivo de dados do mapa.
 ## 👥 Equipe do 1º semestre
 
 **Vinicius** · **Cesar** · **Bruno** · **João Flávio** · **Victor** · **Ana Carolina**
+
+## 📄 Licença
+
+[MIT](LICENSE) para o código da equipe. Projeto acadêmico, sem fins lucrativos. A licença não
+cobre os dados de `meuarquivo4.json`, que não são da equipe, nem as bibliotecas carregadas por
+CDN, que têm as próprias licenças.
